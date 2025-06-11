@@ -1,0 +1,16 @@
+we will add backend services here
+
+1- Auth service
+2- Transaction service
+3- Home Service
+
+for example
+
+
+this services will be used in one pom file
+
+do we need to find way to auth user
+- lets apply new tec for user token and refresh -- and force log out
+we will think later about this points
+
+
